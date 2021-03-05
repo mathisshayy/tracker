@@ -1,4 +1,4 @@
-## Diployed at
+## Deployed at
 https://trackerss.herokuapp.com/
 
 ## User Story
